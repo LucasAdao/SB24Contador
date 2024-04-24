@@ -1,0 +1,2 @@
+## Contador e Lançamento de Exceção Customizada!
+<p>Então galera, aqui estamos! Muito feliz por conseguir criar minhas próprias exceções, vou treinar mais quando finalizar o bootcamp! Muito mágico encadear exceções no java! Eu mesmo estou livre não sei mais o que é ver aquelas mensagens gigantescas no console abaixando minha auto estima como programador! HAHAHA, brincadeiras a parte pessoal! Espero que gostem!!</p>
